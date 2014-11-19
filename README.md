@@ -1,4 +1,4 @@
 idt
 ===
 
-IDT
+IDT - Integrated Dashboard Tool 
